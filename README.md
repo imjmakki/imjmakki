@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... I'm a code geek
 - ⚡ Fun fact: ... Snakephobic
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamadjalanbaki&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamadjalanbaki&show_icons=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadjalanbaki&theme=dark)
