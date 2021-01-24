@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Mohamad J. Alanbaki Software Developer and specially Java geek and using Spring framework with my projects 
+I'm MJ Java geek using Spring framework
 
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... mehmet.anbaki@gmail.com
 - 😄 Pronouns: ... I'm a code geek
 - ⚡ Fun fact: ... Snakephobic
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamadjalanbaki&show_icons=true&theme=dark)
