@@ -34,9 +34,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/mjalanbaki)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadjalanbaki/)](https://www.linkedin.com/in/mohamadjalanbaki/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/imjmakki)
+[![Twitter: MJ](https://img.shields.io/twitter/follow/MJ?style=social)](https://twitter.com/mjalanbaki)
+[![Linkedin: MJ](https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadjalanbaki/)](https://www.linkedin.com/in/mohamadjalanbaki/)
+[![GitHub MJ](https://img.shields.io/github/followers/MJ?label=follow&style=social)](https://github.com/imjmakki)
 
 
 **Languages and Tools:**  
