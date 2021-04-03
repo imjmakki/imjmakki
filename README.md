@@ -27,17 +27,16 @@
 
 - 🔭 I’m currently working on [SkyLimits](https://skylimits.tech/).
 - 🌱 I’m currently learning more about Cloud Computing.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/).
 - 🤔 I’m looking for help with Spring documentation.
 - 💬 Ask me about Spring or any tech related stuff.
 - 📫 How to reach me: [Twitter - @mjalanbaki](https://twitter.com/mjalanbaki)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/mjalanbaki)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadjalanbaki/)](https://www.linkedin.com/in/mohamadjalanbaki/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/imjmakki)
 
 
 **Languages and Tools:**  
