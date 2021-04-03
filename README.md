@@ -32,7 +32,7 @@
 - 💬 Ask me about Spring or any tech related stuff.
 - 📫 How to reach me: [Twitter - @mjalanbaki](https://twitter.com/mjalanbaki)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
 [![Twitter: MJ](https://img.shields.io/twitter/follow/MJ?style=social)](https://twitter.com/mjalanbaki)
 [![Linkedin: MJ](https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadjalanbaki/)](https://www.linkedin.com/in/mohamadjalanbaki/)
