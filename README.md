@@ -27,11 +27,9 @@
 
 - 🔭 I’m currently working on [SkyLimits](https://skylimits.tech/).
 - 🌱 I’m currently learning more about Cloud Computing.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/).
 - 🤔 I’m looking for help with Spring documentation.
 - 💬 Ask me about Spring or any tech related stuff.
 - 📫 How to reach me: [Twitter - @mjalanbaki](https://twitter.com/mjalanbaki)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
 [![Twitter: MJ](https://img.shields.io/twitter/follow/MJ?style=social)](https://twitter.com/mjalanbaki)
