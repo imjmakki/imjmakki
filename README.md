@@ -52,9 +52,6 @@
 <a href="https://github.com/imjmakki">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imjmakki&show_icons=true&theme=light&line_height=27" alt="MJ's github stats"/>
 </a>
-<a href="https://github.com/imjmakki/JAVA-Spring-Connect_DB.00">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjmakki&repo=JAVA-Spring-Connect_DB.00&theme=light" />
-</a>
 
 <div align="center">
 
