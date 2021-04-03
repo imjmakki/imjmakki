@@ -1,4 +1,4 @@
-## Hola, I'm [MJ!](https://www.linkedin.com/in/mohamadjalanbaki) 👋
+## Hi, I'm [MJ!](https://www.linkedin.com/in/mohamadjalanbaki) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjmakki&label=Views&color=blue&style=plastic" alt="imjmakki" /> </p>
 
