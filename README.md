@@ -82,40 +82,6 @@ Language and Tools
 </p>
 <br>
 <br>
-
-<!-- Github Statistics -->
-<!-- <h2 align="center"> 
-
-`
-📉 My GitHub Stats
-`
-</h2>
-<br>
-<center>
-<a href="https://github.com/raghulrage">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raghulrage&layout=compact&langs_count=8&theme=chartreuse-dark" />
-</a>
-
-<a href="https://github.com/raghulrage">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raghulrage&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="raghulrage's GitHub Stats" />
-</a>
-<br>
-<br> -->
-
-<h3 style="color:red" align="center"> 
-Profile Visitors
-<br>
-<img align="center" src="https://profile-counter.glitch.me/{imjmakki}/count.svg" alt="Mohamad J Makki :: Visitor's Count" />
-</h3>
-</center>
-<br>
-<br>
-
-<h2 align="center">
-
-`
-👨‍💻 My Repositories
-`</h2>
 <br>
   </div>
 
