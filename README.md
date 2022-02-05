@@ -68,6 +68,8 @@ Language and Tools
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="50"/>
 <img src="https://raghulrage.github.io/assets/img/spring.png"  width="70"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png"  width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">
 <br>
 <br>
 <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"  width="50"/>
