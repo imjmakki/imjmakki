@@ -68,8 +68,10 @@ Language and Tools
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="50"/>
 <img src="https://raghulrage.github.io/assets/img/spring.png"  width="70"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png"  width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <br>
 <br>
 <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"  width="50"/>
@@ -77,6 +79,7 @@ Language and Tools
 <img src="https://img.icons8.com/dusk/64/000000/anaconda.png"  width="50"/>
 <img src="https://img.icons8.com/plasticine/400/000000/github.png"  width="50"/>
 <img src="https://img.icons8.com/ultraviolet/80/000000/merge-git.png" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"  width="50"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  width="50"/>
