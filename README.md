@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang and Gin Framework**
 
-- 💬 Ask me about **Java, Spring, Angular Developer**
+- 💬 Ask me about **Java, Spring, Angular**
 
 - 📫 How to reach me **mehmet.anbaki@gmail.com**
 
