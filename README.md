@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad J. Makki</h1>
-<h1 align="center">👋, You can call me MJ ,👋</h1>
+<h1 align="center">You can call me MJ</h1>
 <h3 align="center">A passionate Java developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imjmakki" alt="imjmakki" /></a> </p>
