@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Java, Spring, Angular, Golang, Gin-Gonic and Software Engineering besides the Database**
 
-- 📫 How to reach me **mehmet.anbaki@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
