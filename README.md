@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **mehmet.anbaki@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamadjalanbaki](https://www.linkedin.com/in/mohamadjalanbaki)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
